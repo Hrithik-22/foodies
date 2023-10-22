@@ -16,7 +16,7 @@ function AppNavigation() {
         screenOptions={{ headerShown: true }}
       >
         {/* <Stack.Screen name="Home" component={HomeScreen} /> */}
-        <Stack.Screen name="Welcome fuck you" component={WelcomeScreen} />
+        <Stack.Screen name="Welcome" component={WelcomeScreen} />
         {/* <Stack.Screen name="RecipeDetail" component={RecipeDetailScreen} /> */}
       </Stack.Navigator>
     </NavigationContainer>
